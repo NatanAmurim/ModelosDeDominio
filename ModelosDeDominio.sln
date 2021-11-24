@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelosDeDominio", "ModelosDeDominio\ModelosDeDominio.csproj", "{384205FD-A796-4B84-8D09-A8D0BEC7AF9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{384205FD-A796-4B84-8D09-A8D0BEC7AF9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384205FD-A796-4B84-8D09-A8D0BEC7AF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384205FD-A796-4B84-8D09-A8D0BEC7AF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384205FD-A796-4B84-8D09-A8D0BEC7AF9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98A02041-4B36-4123-910E-FD51612611D5}
+	EndGlobalSection
+EndGlobal
