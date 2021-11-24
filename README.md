@@ -12,11 +12,9 @@
 <div align="center">
 
 ```sh
-C# Version: 8.0
+![go](https://img.shields.io/badge/-C%23-blueviolet) Version: 8.0
 .Net Core Version: 3.1
 ```
-
-![go](https://img.shields.io/badge/-C%23-blueviolet)
 
 </div>
 
