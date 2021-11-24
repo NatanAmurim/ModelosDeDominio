@@ -12,7 +12,7 @@
 <div align="center">
 
 ```sh
-![go](https://img.shields.io/badge/-C%23-blueviolet) Version: 8.0
+C# Version: 8.0
 .Net Core Version: 3.1
 ```
 
