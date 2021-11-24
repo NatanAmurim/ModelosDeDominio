@@ -12,8 +12,8 @@
 <div align="center">
 
 ```sh
-C# Version: 8.0
-.Net Core Version: 3.1
+C# Versão: 8.0
+.Net Core Versão: 3.1
 ```
 
 </div>
